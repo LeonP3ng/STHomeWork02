@@ -1,0 +1,112 @@
+.container{
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	width: 650px;
+	/*padding-top: 100px;*/
+	margin:30px auto;
+	text-shadow: none;
+	background: white;
+}
+.header{
+	border-bottom: 1px solid #ddd;
+	text-align: center;
+	padding: 10px 0;
+}
+.header img{
+	width: 100px;
+	height: 100px;
+}
+.header h1{
+	color:#37363e;
+	font-size: 22px;
+	font-family: "Montserrat",sans-serif;
+	font-weight: bold;
+	margin-top: 14px;
+}
+.form_area{
+	padding: 40px 40px 10px 40px;
+	height: auto;
+}
+.group_area{
+	width: 400px;
+	margin:0 auto 20px;
+}
+.form_msg{
+	width: 400px;
+	padding-left: 10px;
+	display: block;
+	border: 1px solid #BDC4C9;
+	font-size: 14px;
+	background: #fff;
+	height: 40px;
+	line-height: 40px;
+	color: #555;
+
+}
+#submit,#reset{
+	float: left;
+	width: 200px;
+	height: 42px;
+	font-weight: 600;
+	background: #208eff;
+	margin:0 62px;
+	display: block;
+	border:none;
+	color: #fff;
+}
+#submit:hover{
+	border-color: #adadad;
+}
+
+.btn_area{
+	overflow: hidden;
+	width: 650px;
+	height: auto;
+	margin: 30px auto;
+	text-shadow: none;
+}
+.footer{
+	color: #76757B;
+	padding: 10px 5px;
+	margin:10px auto 30px;
+	text-align: center;
+}
+.btnAll{
+	width: 400px;
+	margin:0 auto;
+}
+.btnItem{
+	width: 120px;
+          display: inline-block;
+          margin-top: 15px;
+	padding-bottom: 10px;
+	margin-right: 20px;
+}
+.btnItem a{
+	text-decoration: none;
+	font-size:14px;
+	background: #e4e4e4;
+	border-radius: 3px;
+	padding: 7px 10px;
+	color: #76757B;
+}
+.btnItem a:hover{
+	color: #666;
+}
+.remind{
+	text-align: center;
+	color: #900000;
+	height: 8px;
+}
+.isManager{
+    display: none;
+}
+.res_area{
+	display: none;
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	width: 650px;
+	margin:30px auto;
+	text-shadow: none;
+	background: white;
+}
